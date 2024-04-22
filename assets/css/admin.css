@@ -1,0 +1,15 @@
+.admin-table__row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding:5px;
+}
+.admin-table__row label {
+    width:6rem;
+}
+.admin-table__row .table-save {
+    margin:auto;
+}
+.admin-table__form {
+    width:30%;
+}
